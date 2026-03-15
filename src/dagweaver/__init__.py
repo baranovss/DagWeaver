@@ -1,4 +1,4 @@
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from dagweaver.weave import weave
 from dagweaver.models import Weave, WeaveContext
