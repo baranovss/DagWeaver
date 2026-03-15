@@ -27,3 +27,9 @@ htmlcov/
 .vscode/
 *.swp
 *.swo
+
+# Sandbox
+sandbox/
+
+.github/
+.airflow/

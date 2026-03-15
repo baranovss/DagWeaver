@@ -1,10 +1,8 @@
-"""Tests for DagWeaver package."""
-
-import pytest
+"""Package-level tests."""
 
 from dagweaver import __version__
 
 
 def test_version():
-    """Test that version is defined."""
+    """Version is exposed."""
     assert __version__ == "0.1.0"
