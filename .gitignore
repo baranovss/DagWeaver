@@ -31,5 +31,5 @@ htmlcov/
 # Sandbox
 sandbox/
 
-# Local Airflow runtime
+.github/
 .airflow/
